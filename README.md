@@ -1,4 +1,4 @@
-## Reconnaissance intelligente d'événements par fusion multimodale des informations visuelles et sonores
+# Reconnaissance intelligente d'événements par fusion multimodale des informations visuelles et sonores
 
 **Projet de Fin d'Année (PFA) – Fiche n°15**
 Cycle ingénieur – 5ᵉ année | EMSI Casablanca | Année universitaire 2026
@@ -13,7 +13,8 @@ Cycle ingénieur – 5ᵉ année | EMSI Casablanca | Année universitaire 2026
 | Zaina Belgas | Étudiante ingénieure |
 | Chaimaa Ezzerag | Étudiante ingénieure |
 
-**Encadrant :** Pr. [Nom de l'encadrant]
+**Encadrant :** Pr. Mohammed Mestari
+
 
 ---
 
