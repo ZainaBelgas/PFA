@@ -10,7 +10,7 @@ Cycle ingénieur – 5ᵉ année | EMSI Casablanca | Année universitaire 2026
 | Nom | Rôle |
 |---|---|
 | Marwa Elomari Alaoui | Étudiante ingénieure |
-| Zaina Belgas | Étudiante ingénieure |
+| Zainab Belgas | Étudiante ingénieure |
 | Chaimaa Ezzerag | Étudiante ingénieure |
 
 **Encadrant :** Pr. Mohammed Mestari
